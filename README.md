@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">
+  <br>
+  Edstine
+  <br>
+</h1>
 
-<!--
-**Edstine/Edstine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h1 align="center">
+  <a href="https://discord.com/users/698574668671483947"><img src="https://lanyard.cnrad.dev/api/698574668671483947" width=45%></a>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## My favorite languages
+
+<p align="center">
+	<img src="https://img.shields.io/badge/CSHARP-2CCC00?style=for-the-badge&logo=csharp&logoColor=FFFFFF">
+	<img src="https://img.shields.io/badge/CSHARP-2CCC00?style=for-the-badge&logo=csharp&logoColor=FFFFFF">
+</p>
+
+## My Social networks
+
+- Discord : [teamcamex.fr/discord](https://teamcamex.fr/discord)
+- Twitter : [twitter.com/EdstineC](https://twitter.com/EdstineC)
+- Youtube : [youtube.com/@edstine](https://www.youtube.com/@edstine)
+
