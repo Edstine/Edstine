@@ -6,8 +6,10 @@
 
 ---
 
+# Contact Me On Discord
+
 <h1 align="center">
-  <a href="https://discord.com/users/698574668671483947"><img src="https://lanyard.cnrad.dev/api/698574668671483947" width=45%></a>
+  <a href="https://discord.com/users/698574668671483947"><img src="https://lanyard.cnrad.dev/api/698574668671483947"></a>
 </h1>
 
 ---
