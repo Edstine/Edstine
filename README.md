@@ -10,7 +10,7 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/CSHARP-2CCC00?style=for-the-badge&logo=csharp&logoColor=FFFFFF">
-	<img src="https://img.shields.io/badge/CSHARP-2CCC00?style=for-the-badge&logo=csharp&logoColor=FFFFFF">
+	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
 
 ## My Social networks
