@@ -19,3 +19,9 @@
 - Twitter : [twitter.com/EdstineC](https://twitter.com/EdstineC)
 - Youtube : [youtube.com/@edstine](https://www.youtube.com/@edstine)
 
+## Donate to support me
+
+- Litecoin (LTC) : MP3mxySYHye9vkCcTcAdJYsk7iKiDqKrte
+- Bitcoin (BTC) : 3AUsbvpNKrrCoEvTqEGfWKaNDAxYUnorcs
+- Ethereum (ETH) : 0x7aFB5A9442767451d9ca4d19cFEd316Eee1e5b8d
+- Tether (USDT) : 0x3966226093f4046Cf938504521Ea4De1FB100589
