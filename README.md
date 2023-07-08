@@ -2,7 +2,7 @@
 # Contact Me On Discord
 
 <h1 align="center">
-  Discord : Edstine#9999
+  Discord : edstine
 </h1>
 
 
