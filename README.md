@@ -2,7 +2,7 @@
 # Contact Me On Discord
 
 <h1 align="center">
-  Discord : edstine
+  <img src="[https://img.shields.io/badge/CSHARP-2CCC00?style=for-the-badge&logo=csharp&logoColor=FFFFFF](https://widgets.vendicated.dev/user?id=1024263264097546340&theme=dark&banner=false&discord-icon=true)">
 </h1>
 
 
