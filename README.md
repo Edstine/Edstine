@@ -2,7 +2,7 @@
 # Contact Me On Discord
 
 <h1 align="center">
-  <img src="https://widgets.vendicated.dev/user?id=1024263264097546340&theme=dark&banner=true&discord-icon=true">
+  <img src="https://discord.c99.nl/widget/theme-3/1024263264097546340.png">
 </h1>
 
 
