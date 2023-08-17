@@ -3,7 +3,6 @@
 
 <h1 align="center">
   <img src="https://discord.c99.nl/widget/theme-3/1024263264097546340.png">
-	[Discord](https://teamcamex.fr/discord) | [Twitter](https://twitter.com/EdstineC) | [Youtube](https://www.youtube.com/@edstine)
 </h1>
 
 
@@ -13,6 +12,13 @@
 	<img src="https://img.shields.io/badge/CSHARP-2CCC00?style=for-the-badge&logo=csharp&logoColor=FFFFFF">
 	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
+
+## My Social networks
+
+- Discord : [Team Camex 2.25](https://teamcamex.fr/discord)
+- Twitter : [@EdstineC](https://twitter.com/EdstineC)
+- Youtube : [@edstine](https://www.youtube.com/@edstine)
+
 
 ## Donate to support me
 
