@@ -2,7 +2,7 @@
 # Contact Me !
 
 <h1 align="center">
-  <img src="[https://discord.c99.nl/widget/theme-3/1024263264097546340.png](https://discord.com/users/1024263264097546340)">
+  <img src="https://discord.c99.nl/widget/theme-3/1024263264097546340.png">
   <a href="https://teamcamex.fr/discord">Discord</a> |
   <a href="https://twitter.com/EdstineC">Twitter</a> |
   <a href="https://www.youtube.com/@edstine">Youtube</a>
@@ -25,4 +25,4 @@ Crypto :
 - Tether (USDT) : 0x3966226093f4046Cf938504521Ea4De1FB100589
 
 Other : 
-<img src="[https://teamcamex.fr/api/tips](https://www.buymeacoffee.com/edstine)">
+<img src="https://teamcamex.fr/api/tips">
