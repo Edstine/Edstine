@@ -25,10 +25,9 @@
 - Bitcoin (BTC) : 3AUsbvpNKrrCoEvTqEGfWKaNDAxYUnorcs
 - Ethereum (ETH) : 0x7aFB5A9442767451d9ca4d19cFEd316Eee1e5b8d
 - Tether (USDT) : 0x3966226093f4046Cf938504521Ea4De1FB100589
-- 
 
 or
 
 <h1 align="center">
-  <img src="[https://teamcamex.fr/api/tips](https://www.buymeacoffee.com/edstine)">
+  <img src="[https://teamcamex.fr/api/tips]">
 </h1>
