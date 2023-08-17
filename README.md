@@ -28,4 +28,4 @@ Crypto :
 - Tether (USDT) : 0x3966226093f4046Cf938504521Ea4De1FB100589
 
 Other : 
-<img src="https://teamcamex.fr/api/tips">
+<a href="https://www.buymeacoffee.com/edstine" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
