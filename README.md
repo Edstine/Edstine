@@ -3,12 +3,13 @@
 
 <h1 align="center">
   <img src="https://discord.c99.nl/widget/theme-3/1024263264097546340.png">
-</h1>
-<h1 align="center">
+	<br><br>
   <a href="https://teamcamex.fr/discord">Discord</a> |
   <a href="https://twitter.com/EdstineC">Twitter</a> |
   <a href="https://www.youtube.com/@edstine">Youtube</a>
+<br><br>
 </h1>
+
 
 
 ## My favorite languages !
