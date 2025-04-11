@@ -2,9 +2,7 @@
 # Contact Me !
 
 <h1 align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/1024263264097546340.png">
-	<br><br>
-  <a href="https://discord.gg/umapping">Discord</a> |
+  <a href="https://discord.gg/">Discord</a> |
   <a href="https://twitter.com/EdstineC">Twitter</a> |
   <a href="https://www.youtube.com/@edstine">Youtube</a>
 <br><br>
@@ -21,10 +19,4 @@
 
 ## Donate to support me !
 
-Crypto :
-- Litecoin (LTC) : MP3mxySYHye9vkCcTcAdJYsk7iKiDqKrte
-- Bitcoin (BTC) : 3AUsbvpNKrrCoEvTqEGfWKaNDAxYUnorcs
-- Ethereum (ETH) : 0x7aFB5A9442767451d9ca4d19cFEd316Eee1e5b8d
-- Tether (USDT) : 0x3966226093f4046Cf938504521Ea4De1FB100589
-
-<a href="https://www.buymeacoffee.com/edstine" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.helloasso.com/associations/jeune-palestine/formulaires/1" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
