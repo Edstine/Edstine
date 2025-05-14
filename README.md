@@ -2,7 +2,7 @@
 # Contact Me !
 
 <h1 align="center">
-  <a href="https://discord.gg/">Discord</a> |
+  <a href="https://discord.com/users/1032243684516835399">Discord</a> |
   <a href="https://twitter.com/EdstineC">Twitter</a> |
   <a href="https://www.youtube.com/@edstine">Youtube</a>
 <br><br>
