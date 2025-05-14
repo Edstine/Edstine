@@ -19,6 +19,18 @@
   <img src="https://github.com/user-attachments/assets/2e808936-72b3-4eb2-aec8-a66e648393cc">
 </h1>
 
+
+----
+
+
+## My favorite languages !
+
+<p align="center">
+	<img src="https://img.shields.io/badge/CSHARP-2CCC00?style=for-the-badge&logo=csharp&logoColor=FFFFFF">
+	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</p>
+
+
 ----
 
 
@@ -31,11 +43,4 @@
 <br><br>
 </h1>
 
-----
 
-## My favorite languages !
-
-<p align="center">
-	<img src="https://img.shields.io/badge/CSHARP-2CCC00?style=for-the-badge&logo=csharp&logoColor=FFFFFF">
-	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</p>
