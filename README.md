@@ -7,10 +7,19 @@
 <p>| 🎞 | Video Editor</p>
 <p>| ⭐ | Developer since 2020</p>
 <p>| 🔫 | <a href="https://guns.lol/edstine">Guns.lol/Edstine</a></p>
-<br><br>
+<br>
 </h1>
 
+----
 
+
+<h1 align="center">
+  <p><strong><i>“We shall heal our wounds, collect our dead and continue fighting.” - Chairman Mao</i></strong</p>
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/2e808936-72b3-4eb2-aec8-a66e648393cc">
+</h1>
+
+----
 
 
 # Contact Me !
@@ -22,7 +31,7 @@
 <br><br>
 </h1>
 
-
+----
 
 ## My favorite languages !
 
