@@ -1,3 +1,23 @@
+# About me
+
+<h1>
+<strong> 🇻🇳 | Franco-Vietnamese</strong>
+<br>
+<strong> 📕 | Marxist-Leninist-Maoist ☭</strong>
+<br>
+<strong> 🏳️‍🌈 | Bigender (he / she / they)</strong>
+<br>
+<strong> 🎞 | Video Editor</strong>
+<br>
+<strong> ⭐ | Developer since 2020</strong>
+<br>
+<strong> ⚛️ | Atheist / Ancestor worship</strong>
+<br>
+<br><br>
+</h1>
+
+
+
 
 # Contact Me !
 
@@ -16,7 +36,3 @@
 	<img src="https://img.shields.io/badge/CSHARP-2CCC00?style=for-the-badge&logo=csharp&logoColor=FFFFFF">
 	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
-
-## Donate to support me !
-
-<a href="https://www.helloasso.com/associations/jeune-palestine/formulaires/1" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
