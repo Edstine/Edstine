@@ -6,6 +6,7 @@
 <p> 🎞 | Video Editor</p>
 <p> ⭐ | Developer since 2020</p>
 <p> ⚛️ | Atheist / Ancestor worship</p>
+<p> 🔫 | [Guns.lol/Edstine](https://guns.lol/edstine)</p>
 <br><br>
 </h1>
 
