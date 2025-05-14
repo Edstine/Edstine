@@ -1,18 +1,11 @@
 # About me
 
 <h1>
-<strong> 🇻🇳 | Franco-Vietnamese</strong>
-<br>
-<strong> 📕 | Marxist-Leninist-Maoist ☭</strong>
-<br>
-<strong> 🏳️‍🌈 | Bigender (he / she / they)</strong>
-<br>
-<strong> 🎞 | Video Editor</strong>
-<br>
-<strong> ⭐ | Developer since 2020</strong>
-<br>
-<strong> ⚛️ | Atheist / Ancestor worship</strong>
-<br>
+<p> 🇻🇳 | Franco-Vietnamese</p>
+<p> 📕 | Marxist-Leninist-Maoist ☭</p>
+<p> 🎞 | Video Editor</p>
+<p> ⭐ | Developer since 2020</p>
+<p> ⚛️ | Atheist / Ancestor worship</p>
 <br><br>
 </h1>
 
