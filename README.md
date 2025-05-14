@@ -3,7 +3,7 @@
 <h1>
 <p>| 🇻🇳 | Franco-Vietnamese</p>
 <p>| 📕 | Marxist-Leninist-Maoist ☭</p>
-<p>| ⚛️ | Atheist / Ancestor worship</p>
+<p>| ⚛️ | Atheist / Cult of the ancestor</p>
 <p>| 🎞 | Video Editor</p>
 <p>| ⭐ | Developer since 2020</p>
 <p>| 🔫 | <a href="https://guns.lol/edstine">Guns.lol/Edstine</a></p>
