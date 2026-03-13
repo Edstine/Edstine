@@ -24,24 +24,25 @@
 ----
 
 
-## My favorite languages !
-
-<p align="center">
-	<img src="https://img.shields.io/badge/CSHARP-2CCC00?style=for-the-badge&logo=csharp&logoColor=FFFFFF">
-	<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</p>
-
+# My favorite languages !
+<img src="https://img.shields.io/badge/CSHARP-2CCC00?style=for-the-badge&logo=csharp&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/C++(learning)-FF006E?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=nodedotjs&logoColor=000000">
+<img src="https://img.shields.io/badge/Node.Js-404040?style=for-the-badge&logo=nodedotjs&logoColor=00FF21">
+<br>
 
 ----
 
-
 # Contact Me !
 
-<h1 align="center">
+
+<h1 align="center">	
   <a href="https://discord.com/users/1032243684516835399">Discord</a> |
   <a href="https://twitter.com/EdstineC">Twitter</a> |
   <a href="https://www.youtube.com/@edstine">Youtube</a>
 <br><br>
+	<img src="https://discord-readme-card.ezzud.fr/?userid=1032243684516835399&v=2"/>
 </h1>
 
 
