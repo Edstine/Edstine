@@ -3,9 +3,9 @@
 <h1>
 <p>| 🇻🇳 | Franco-Vietnamese</p>
 <p>| 📕 | Marxist-Leninist-Maoist ☭</p>
-<p>| ⚛️ | Atheist / Cult of the ancestor</p>
+<p>| ⚛️ | Atheist</p>
 <p>| 🎞 | Video Editor</p>
-<p>| 🎵 | Emo/Screamo addict</p>
+<p>| 🎵 | Emo / Screamo addict</p>
 <p>| ⭐ | Developer since 2020</p>
 <p>| 🔫 | <a href="https://guns.lol/edstine">Guns.lol/Edstine</a></p>
 <br>
