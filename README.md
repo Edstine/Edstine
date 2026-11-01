@@ -15,7 +15,7 @@
 
 
 <h1 align="center">
-  <p><strong><i>“Comrades throughout the Party must never forget this experience for which we have paid in blood.” - Chairman Mao, 1939</i></strong</p>
+  <p><strong><i>“Victory will definitely belong to the heroic Vietnamese people!” - Chairman Mao, December 1967</i></strong</p>
   <br><br>
   <img src="https://github.com/user-attachments/assets/2e808936-72b3-4eb2-aec8-a66e648393cc">
 </h1>
